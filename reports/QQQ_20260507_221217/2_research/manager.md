@@ -1,0 +1,5 @@
+**Recommendation**: Underweight
+
+**Rationale**: QQQ still has a constructive long-term trend: price is above the 10 EMA, 50 SMA, and 200 SMA, and MACD remains positive, so the bull case that institutional leadership in mega-cap growth is intact is credible. But the bear made the stronger practical point for a trader at current levels: QQQ is very extended, RSI around 80 is persistently overheated, and MACD momentum is decelerating even though the uptrend has not broken. That means the upside from here likely depends on continued perfection, while the downside from a normal mean reversion is meaningful. The evidence does not justify a bearish exit call, but it does favor trimming risk or avoiding fresh aggressive exposure until the rally cools.
+
+**Strategic Actions**: Trim existing QQQ exposure modestly or keep any new allocation below normal size. For new money, wait for a pullback or consolidation that resets momentum, ideally closer to the 10 EMA rather than chasing current levels. If already holding, maintain a core position but reduce incremental buying and use disciplined stops/hedges in case the extended move mean-reverts.
